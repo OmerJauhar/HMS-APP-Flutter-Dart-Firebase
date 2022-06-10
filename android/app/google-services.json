@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "465485788914",
+    "firebase_url": "https://hospitalmanagementsystem-597da-default-rtdb.firebaseio.com",
+    "project_id": "hospitalmanagementsystem-597da",
+    "storage_bucket": "hospitalmanagementsystem-597da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465485788914:android:90f9f543886a7c1c4ec26b",
+        "android_client_info": {
+          "package_name": "com.example.oophms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465485788914-s6i9jsblknau5a3v83paj58iqmn3i79a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1ARivk98Gg1d26rGLx4CxLaOJ8dbOhvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465485788914-s6i9jsblknau5a3v83paj58iqmn3i79a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
